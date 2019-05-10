@@ -2,6 +2,7 @@ ABCDEFG
 HIJK
 LMNOP
 QRSTUV
+then
 WX
 YZ
 .!?
