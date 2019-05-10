@@ -1,9 +1,6 @@
 ABCDEFG
 HIJK
 LMNOP
-QRSTUV
-then
-WX
-YZ
-.!?
+QRS
+
 now i know my abcs
